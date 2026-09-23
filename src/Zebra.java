@@ -5,7 +5,6 @@ public class Zebra extends Animal{
     public Zebra(){
         grassPiecesEaten = 10000;
         stripes = 10;
-        numLegs = 4;
     }
     //getter
     public int getGrassPiecesEaten(){
